@@ -1,0 +1,17 @@
+#Ghost1 {
+    transform: rotate(25deg); /* Adjust the angle as needed */
+    transform-origin: center;
+    position: absolute;
+
+    /* left: -8vw; */
+    /* left: -6%; */
+    left: -30px;
+    top: 30px;
+    /* right: 95%; */
+
+    /* background-color: ; */
+
+    /* width="150" height="170" */
+    height: 26vh;;
+  }
+  
